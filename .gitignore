@@ -1,0 +1,40 @@
+﻿
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compilacion
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Archivos temporales
+*.cache
+*.log
+*.tmp
+
+# Entity Framework
+*.edmx.diagram
+
+# Publicacion
+publish/
+PublishProfiles/
+
+# Configuracion local
+.env
+.env.*
+!.env.example
+
+# Certificados y claves privadas
+*.pfx
+*.p12
+*.key
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,9 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <connectionStrings>
+    <add name="Proyecto_PrograVEntities1"
+         connectionString="metadata=res://*/DATA.BD.csdl|res://*/DATA.BD.ssdl|res://*/DATA.BD.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=TU_SERVIDOR_SQL;initial catalog=Proyecto_PrograV;integrated security=True;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;"
+         providerName="System.Data.EntityClient" />
+  </connectionStrings>
+</configuration>
